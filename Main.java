@@ -7,7 +7,7 @@ class Main {
     boolean food = true;
     float dec = 23.233f;
     double precision = 123.234535;
-    Jesse.haveEaten("null");
+    Jesse.haveEaten(null);
   }
 }
 class Jesse{
